@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: auto 0;
+    
+}
+
+.Navbar{
+    display: flex;
+    
+}
+.logo{
+    width: 50%;
+}
+
+.logo img{
+ 
+    padding: 25px;
+    height: 80px;
+    
+}
+
+.menu{
+    width: 50%;
+
+ 
+
+}
+.menu ul{
+
+   display: flex;
+   list-style: none;
+
+
+}
+ul li{
+  
+    padding: 30px;
+    font-size: 20px;
+    
+}
+.header img{
+    width: 100%;
+    height: 50%;
+}
+
+.content{
+    background-color:lightgray
+    
+}
+.leftcontent{
+
+    padding:100px;
+}
+.pinkhead{
+    color:lightsalmon
+}
+
+.leftcontent p{
+    padding:20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color :black;
+    font-size: 20px;
+}
+.footer{
+    display: flex;
+    background-color:darkgoldenrod;
+    padding:30px;
+   
+}
+.product{
+    width: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.story{
+    width: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.flavors{
+    width: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.location{
+    width: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.footer h2{
+    color:white;
+}
+.icon{
+    width: 100%;
+}
